@@ -48,4 +48,8 @@ https://www.youtube.com/watch?v=Sk9TatW9ino
 **Sep 26, 2000**
 https://www.techrepublic.com/article/creating-a-custom-linux-kernel/
 
-## Pieces & Things I Need Checklist
+## Questions
+* How do I create the UI?
+* At the most basic, what does this kernel come with and do? How would I open a terminal after first launch?
+* Config the UI?
+* Am I stuck with the lame old-seeming Chromium & Firefox I currently have?
