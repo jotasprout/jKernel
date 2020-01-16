@@ -9,6 +9,8 @@ Rolling a kernel just for Dell Vostro 1000
 
 ## Potential Resources (How To's)
 
+Pages from *The Hacker's Manual*
+
 http://www.linuxfromscratch.org/
 
 **Feb 27, 2017**
